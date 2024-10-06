@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camilacelente2
 - 👀 I’m interested in ... study more about phyton
-- 🌱 I’m currently learning CS50's Introduction to Programming with Python
+- 🌱 I’m currently learning CS50's Introduction to Programming with Python, C#, Html, Css e JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she
